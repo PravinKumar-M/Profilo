@@ -1,0 +1,16 @@
+.ccard{
+   
+    display: inline-block;
+ margin-top:6%;
+   text-align: center;
+    height: 300px;
+    border-radius: 20px;
+    background-color: black;
+    width: 400px;
+  margin-left: 17%;
+    padding: 20px;
+    
+}
+ h3{
+    margin-top: 10%;
+ }
